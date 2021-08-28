@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../posted"
+		},
+		{
+			"path": "../../../../login_registration"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login_registration"
+	}
+}

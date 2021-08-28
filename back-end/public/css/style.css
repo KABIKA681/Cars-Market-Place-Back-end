@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Righteous&display=swap');
+
+body{
+    font-family:'Righteous', cursive;;
+}
+.font-poppins{
+    font-family:'Righteous', cursive;
+}
+.font-size-09{
+    font-size: .9rem;
+}
+input:focus{
+    box-shadow: none !important;
+    outline: none !important;
+}
